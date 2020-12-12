@@ -1,0 +1,29 @@
+{
+  "elpais": {
+    "link": "https://elpais.com/"
+  },
+  "okdiario": {
+    "link": "https://okdiario.com/"
+  },
+  "eldiario": {
+    "link": "https://www.eldiario.es/"
+  },
+  "elmundo": {
+    "link": "https://www.elmundo.es/"
+  },  
+  "lavanguardia": {
+    "link": "https://www.lavanguardia.com/"
+  },   
+  "libertaddigital": {
+    "link": "https://www.libertaddigital.com/"
+  },   
+  "publico": {
+    "link": "https://www.publico.es/"
+  },
+  "abc": {
+    "link": "https://www.abc.es/"
+  },
+  "20minutos": {
+    "link": "https://www.20minutos.es/"
+  }
+}
