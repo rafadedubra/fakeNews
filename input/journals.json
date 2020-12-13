@@ -1,29 +1,29 @@
 {
   "elpais": {
-    "link": "https://elpais.com/"
+    "link": "https://elpais.com/espana"
   },
   "okdiario": {
-    "link": "https://okdiario.com/"
+    "link": "https://okdiario.com/espana"
   },
   "eldiario": {
-    "link": "https://www.eldiario.es/"
+    "link": "https://www.eldiario.es/politica"
   },
   "elmundo": {
-    "link": "https://www.elmundo.es/"
+    "link": "https://www.elmundo.es/espana"
   },  
   "lavanguardia": {
-    "link": "https://www.lavanguardia.com/"
+    "link": "https://www.lavanguardia.com/politica"
   },   
   "libertaddigital": {
-    "link": "https://www.libertaddigital.com/"
+    "link": "https://www.libertaddigital.com/espana"
   },   
   "publico": {
-    "link": "https://www.publico.es/"
+    "link": "https://www.publico.es/politica"
   },
   "abc": {
-    "link": "https://www.abc.es/"
+    "link": "https://www.abc.es/espana"
   },
   "20minutos": {
-    "link": "https://www.20minutos.es/"
+    "link": "https://www.20minutos.es/nacional"
   }
 }
